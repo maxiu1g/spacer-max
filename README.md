@@ -1,4 +1,6 @@
-# spacer-max
+# Spacer app
+
+This app uses NASA imahe API to fetch images and display them after passing search query.
 
 ## Project setup
 ```
